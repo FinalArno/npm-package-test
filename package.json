@@ -1,0 +1,22 @@
+{
+  "name": "npm-package-test",
+  "version": "1.0.0",
+  "description": "npm package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FinalArno/npm-package-test.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "arno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FinalArno/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/FinalArno/npm-package-test#readme"
+}
